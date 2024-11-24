@@ -8,4 +8,5 @@ layout: meojores actividades y tabajos de primero de DAW
 - programación
 - Itinerario personal para la empleabilidad
 - Entornos de desarrollo
-- Sistemas informaticos 
+- Sistemas informaticos
+- Ingles
